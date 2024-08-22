@@ -1,5 +1,5 @@
 ## About
-
+A simple To-Do List
 
 ## Languages and Tools
 <p align="left">
